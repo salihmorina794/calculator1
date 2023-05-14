@@ -1,0 +1,10 @@
+C:\Users\salih\OneDrive\Skrivbord\calculatort tilläplad\calculatoruppgift\calculatoruppgift\bin\Debug\calculatoruppgift.exe.config
+C:\Users\salih\OneDrive\Skrivbord\calculatort tilläplad\calculatoruppgift\calculatoruppgift\bin\Debug\calculatoruppgift.exe
+C:\Users\salih\OneDrive\Skrivbord\calculatort tilläplad\calculatoruppgift\calculatoruppgift\bin\Debug\calculatoruppgift.pdb
+C:\Users\salih\OneDrive\Skrivbord\calculatort tilläplad\calculatoruppgift\calculatoruppgift\obj\Debug\calculatoruppgift.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Skrivbord\calculatort tilläplad\calculatoruppgift\calculatoruppgift\obj\Debug\calculatoruppgift.Form1.resources
+C:\Users\salih\OneDrive\Skrivbord\calculatort tilläplad\calculatoruppgift\calculatoruppgift\obj\Debug\calculatoruppgift.Properties.Resources.resources
+C:\Users\salih\OneDrive\Skrivbord\calculatort tilläplad\calculatoruppgift\calculatoruppgift\obj\Debug\calculatoruppgift.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive\Skrivbord\calculatort tilläplad\calculatoruppgift\calculatoruppgift\obj\Debug\calculatoruppgift.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Skrivbord\calculatort tilläplad\calculatoruppgift\calculatoruppgift\obj\Debug\calculatoruppgift.exe
+C:\Users\salih\OneDrive\Skrivbord\calculatort tilläplad\calculatoruppgift\calculatoruppgift\obj\Debug\calculatoruppgift.pdb
